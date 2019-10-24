@@ -1,1 +1,1 @@
-# FULL-STACK Next.js, Node.js, Express.js, Passport.js, Sequelize, PostgrSQL Boilerplate.
+# FULL-STACK Next.js, Node.js, Express.js, Passport.js, Sequelize, PostgreSQL Boilerplate.
